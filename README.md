@@ -12,8 +12,6 @@ In addition a data set of the movies includes the movie name and genres.
 * **title**
 * **genres**
 
-The dataset can be found here : https://github.com/Gurupradeep/Movie-Recommendation-System/tree/master/Dataset
-
 ## Approaches Used :
 ### Non Personalised Recommendations
 This type of recommendations are simple but very useful. Because they solve the cold start problem for users. That is without knowing anything about the user, we can do some recommendations to the user. After getting some reviews from  the user or getting some additional information about the user, we can switch some of the more advanced model which are described below.
